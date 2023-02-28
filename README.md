@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m @chaalelidris
 - 👀 I’m interested in Web Development & Web 3.0
-- 🌱 I’m currently learning Django REST, React js, Tailwind, Machine Learning
-- 💞️ I’m looking to collaborate on Django(python) project, ReactJS projects
+- 🌱 I’m currently learning NodeJs,MongoDB, REST API,GraphQl, ReactJS, Machine Learning
+- 💞️ I’m looking to collaborate on Web project.
 - 📫 Reach me via Email : i.chaalel@esi-sba.dz | https://chaalelidris.github.io/
 
 <!---
