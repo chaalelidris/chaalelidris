@@ -1,5 +1,5 @@
 
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657](https://user-images.githubusercontent.com/71793123/211697151-4d1bb3f3-5f52-497f-9899-a9e22ce280ab.svg)
+<div align="center"> <img src="https://github.com/chaalelidris/chaalelidris/blob/main/assets/idris_banner.png" alt="Banner"> </div>
 
 - 👋 Hi, I’m @chaalelidris
 - 👀 I’m interested in Web Development & Web 3.0
