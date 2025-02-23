@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/chaalelidris/chaalelidris/blob/main/assets/idris_banner.png" alt="Banner"> </div>
+<div align="center"> <img src="./blob/main/assets/idris-github-header.png" alt="Banner"></div>
 
 - 👋 Hi, I’m @chaalelidris
 - 👀 I’m interested in Web Development & Web 3.0
